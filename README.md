@@ -1,2 +1,3 @@
-# icons
+# Icons
 Flame.Exchange Icons
+
